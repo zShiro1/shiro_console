@@ -1,0 +1,7 @@
+C:\Users\Drei\Documents\proyecto\ProjectAPI1\ProjectAPI1\bin\Debug\ProjectAPI1.exe.config
+C:\Users\Drei\Documents\proyecto\ProjectAPI1\ProjectAPI1\bin\Debug\ProjectAPI1.exe
+C:\Users\Drei\Documents\proyecto\ProjectAPI1\ProjectAPI1\bin\Debug\ProjectAPI1.pdb
+C:\Users\Drei\Documents\proyecto\ProjectAPI1\ProjectAPI1\obj\Debug\ProjectAPI1.csproj.AssemblyReference.cache
+C:\Users\Drei\Documents\proyecto\ProjectAPI1\ProjectAPI1\obj\Debug\ProjectAPI1.csproj.CoreCompileInputs.cache
+C:\Users\Drei\Documents\proyecto\ProjectAPI1\ProjectAPI1\obj\Debug\ProjectAPI1.exe
+C:\Users\Drei\Documents\proyecto\ProjectAPI1\ProjectAPI1\obj\Debug\ProjectAPI1.pdb
